@@ -79,7 +79,7 @@ And then you will get the response
 ```
 
 ## Some Useful Link
-- [Api Wrapper in Python](https://github.com/CYCNO/Direct-Download/)
+- [Api Wrapper in Python](https://github.com/CYCNO/DirectDownload/)
 
 ## Author
 - [CYCNO](https://github.com/CYCNO)
