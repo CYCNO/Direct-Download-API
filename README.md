@@ -6,11 +6,11 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
-<a href="https://pypi.org/project/Direct-Download/">
+<a>
 <img src="https://img.shields.io/badge/version-0.1-blue?logo=adguard&style=for-the-badge">
 </a>
-<a href="https://github.com/CYCNO/DirectDownload/graphs/contributors">
-<img src="https://img.shields.io/github/contributors/cycno/justudy?style=for-the-badge&color=green&logo=GitHub">
+<a href="api.com">
+<img src="https://img.shields.io/badge/documentation-green?logo=gitbook&style=for-the-badge">
 </a>
 </div>
 
