@@ -6,10 +6,10 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
-<a>
+<a href="https://example.com/">
 <img src="https://img.shields.io/badge/version-0.1-blue?logo=adguard&style=for-the-badge">
 </a>
-<a href="api.com">
+<a href="https://api.com/">
 <img src="https://img.shields.io/badge/documentation-green?logo=gitbook&style=for-the-badge">
 </a>
 </div>
