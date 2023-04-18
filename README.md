@@ -6,10 +6,10 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
-<a href="https://example.com/">
+<a href="https://ddl-api.cycno.repl.co/">
 <img src="https://img.shields.io/badge/version-0.1-blue?logo=adguard&style=for-the-badge">
 </a>
-<a href="https://api.com/">
+<a href="https://ddl-api.cycno.repl.co/">
 <img src="https://img.shields.io/badge/documentation-green?logo=gitbook&style=for-the-badge">
 </a>
 </div>
@@ -40,13 +40,13 @@
 Documentation is on the home page of api 
 
 ```bash
-https://api.com/
+https://ddl-api.cycno.repl.co/
 ```
 
 ## Usage/Examples
 For using the api you need to decide the `website` and its file `link`as a parameter
 ```url
-https://api.com/{website}?link={link}
+https://ddl-api.cycno.repl.co/{website}?link={link}
 ```
 Lets try with mediafire. you first need a mediafire file link and you will use the link as a parameter
 ```
@@ -81,5 +81,5 @@ And then you will get the response
 ## Some Useful Link
 - [Api Wrapper in Python](https://github.com/CYCNO/DirectDownload/)
 
-## Author
-- [CYCNO](https://github.com/CYCNO)
+## Contributors
+### <a href="https://github.com/CYCNO"><img src="https://avatars.githubusercontent.com/u/90704569?v=4" alt="CYCNO" width="50" height="50" style="border-radius: 50%;"></a>
