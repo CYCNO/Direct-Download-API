@@ -23,7 +23,6 @@
  - Data Is In JSON Format 
  - No Need To Download Anything
  - No Limitation For Usage
- - Switch Between Just Download Link Or ALL Information
  - Very Easy To Use
  
  ## Supported Website
