@@ -12,7 +12,6 @@ cachy==0.3.0
 certifi @ https://files.pythonhosted.org/packages/71/4c/3db2b8021bd6f2f0ceb0e088d6b2d49147671f25832fb17970e9b583d742/certifi-2022.12.7-py3-none-any.whl#sha256=4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18
 cffi==1.15.1
 charset-normalizer @ https://files.pythonhosted.org/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl#sha256=83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f
-cleo==0.8.1
 click @ https://files.pythonhosted.org/packages/c2/f1/df59e28c642d583f7dacffb1e0965d0e00b218e0186d7858ac5233dce840/click-8.1.3-py3-none-any.whl#sha256=bb4d8133cb15a609f44e8213d9b391b0809795062913b383c62be0ee95b1db48
 clikit==0.6.2
 crashtest==0.3.1
