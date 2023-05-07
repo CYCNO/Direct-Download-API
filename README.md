@@ -49,7 +49,7 @@ https://ddl-api.cycno.repl.co/{website}?link={link}
 ```
 Lets try with mediafire. you first need a mediafire file link and you will use the link as a parameter
 ```
-https://api.com/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
+https://ddl-api.cycno.repl.co/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
 ```
 And then you will get the response
 ```json
