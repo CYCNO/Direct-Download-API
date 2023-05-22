@@ -81,7 +81,7 @@ And then you will get the response
 - [Api Wrapper in Python](https://github.com/CYCNO/DirectDownload/)
 
 ## Support
-You can support this by 🌟 this repo. It will push the repo to lot of people and it will help this repo a lot.
+⭐ this repository! Your support will greatly boost its visibility and attract more users.
 
 ## Contributors
 ### <a href="https://github.com/CYCNO"><img src="https://avatars.githubusercontent.com/u/90704569?v=4" alt="CYCNO" width="50" height="50" style="border-radius: 50%;"></a>
