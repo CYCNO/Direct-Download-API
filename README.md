@@ -39,7 +39,7 @@
 Documentation is on the home page of api 
 
 ```bash
-https://ddl-api.cycno.repl.co/
+https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/
 ```
 
 ## Usage/Examples
