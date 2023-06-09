@@ -6,10 +6,10 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
-<a href="https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/">
+<a href="https://ddl-api.cycno.repl.co/">
 <img src="https://img.shields.io/badge/version-0.1-blue?logo=adguard&style=for-the-badge">
 </a>
-<a href="https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/">
+<a href="https://ddl-api.cycno.repl.co/">
 <img src="https://img.shields.io/badge/documentation-green?logo=gitbook&style=for-the-badge">
 </a>
 </div>
@@ -39,17 +39,17 @@
 Documentation is on the home page of api 
 
 ```bash
-https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/
+https://ddl-api.cycno.repl.co/
 ```
 
 ## Usage/Examples
 For using the api you need to decide the `website` and its file `link`as a parameter
 ```url
-https://https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/{website}?link={link}
+https://ddl-api.cycno.repl.co/{website}?link={link}
 ```
 Lets try with mediafire. you first need a mediafire file link and you will use the link as a parameter
 ```
-https://https://5e36cb13-8d6b-4d1e-811a-b7165e4c126d.id.repl.co/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
+https://ddl-api.cycno.repl.co/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
 ```
 And then you will get the response
 ```json
