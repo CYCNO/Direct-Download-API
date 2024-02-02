@@ -80,6 +80,9 @@ And then you will get the response
 ## Some Useful Link
 - [Api Wrapper in Python](https://github.com/CYCNO/DirectDownload/)
 
+## Disclaimer
+- You will be responsible for what you did with this project because i maded it for educational purposes only
+
 ## Support
 ⭐ this repository! Your support will greatly boost its visibility and attract more users.
 
