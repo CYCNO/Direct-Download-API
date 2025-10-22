@@ -39,17 +39,18 @@
 Documentation is on the home page of api 
 
 ```bash
-https://ddl-api.cycno.repl.co/
+python3 main.py
+see the url from console where you will run these
 ```
 
 ## Usage/Examples
 For using the api you need to decide the `website` and its file `link`as a parameter
 ```url
-https://ddl-api.cycno.repl.co/{website}?link={link}
+https://url/{website}?link={link}
 ```
 Lets try with mediafire. you first need a mediafire file link and you will use the link as a parameter
 ```
-https://ddl-api.cycno.repl.co/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
+https://url/mediafire?link=https://www.mediafire.com/file/m1shrkvn91d8508/1.png/view
 ```
 And then you will get the response
 ```json
@@ -76,9 +77,6 @@ And then you will get the response
   }
 }
 ```
-
-## Some Useful Link
-- [Api Wrapper in Python](https://github.com/CYCNO/DirectDownload/)
 
 ## Disclaimer
 - You will be responsible for what you did with this project because i maded it for educational purposes only
